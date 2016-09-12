@@ -1,4 +1,4 @@
-export default {
+{
   "schema": {
     "name": {
       "type": "string",
@@ -16,4 +16,4 @@ export default {
       "label": "Author"
     }
   }
-};
+}
